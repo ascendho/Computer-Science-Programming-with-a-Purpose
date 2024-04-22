@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1.2.30::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.2.30-Debug-4027c90b2a4039345f31.json",
+					"name" : "1.2.30",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.2.34::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.2.34-Debug-a08a605eb6d97197b75c.json",
+					"name" : "1.2.34",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week_1-Debug-d5d02e0799284de457f7.json",
+					"name" : "Week_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Enrichment/Week_1/cmake-build-debug",
+		"source" : "D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Enrichment/Week_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

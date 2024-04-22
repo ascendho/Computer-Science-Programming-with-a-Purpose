@@ -1,0 +1,5 @@
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Enrichment/Week_1/cmake-build-debug/CMakeFiles/Week_1.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Enrichment/Week_1/cmake-build-debug/CMakeFiles/1.2.30.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Enrichment/Week_1/cmake-build-debug/CMakeFiles/1.2.34.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Enrichment/Week_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Enrichment/Week_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

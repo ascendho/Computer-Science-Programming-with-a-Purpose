@@ -1,0 +1,7 @@
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Programming Assignment/Week_1/cmake-build-debug/CMakeFiles/HelloWorld.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Programming Assignment/Week_1/cmake-build-debug/CMakeFiles/HelloGoodbye.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Programming Assignment/Week_1/cmake-build-debug/CMakeFiles/RightTriangle.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Programming Assignment/Week_1/cmake-build-debug/CMakeFiles/GreatCircle.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Programming Assignment/Week_1/cmake-build-debug/CMakeFiles/CMYKtoRGB.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Programming Assignment/Week_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Programming Assignment/Week_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

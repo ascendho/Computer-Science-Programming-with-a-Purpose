@@ -1,0 +1,9 @@
+# ninja log v5
+2	90	7354086622127125	CMakeFiles/HelloGoodbye.dir/HelloGoodbye.c.obj	d5cb2c8bffdecf66
+3	105	7354723600339673	CMakeFiles/GreatCircle.dir/GreatCircle.c.obj	9f1de6d4491befa1
+91	263	7354086623824761	HelloGoodbye.exe	b79b7e459831906f
+112	303	7354098145810861	RightTriangle.exe	27506596ef115a16
+3	111	7354098143911310	CMakeFiles/RightTriangle.dir/RightTriangle.c.obj	784c13253d6c08b2
+106	282	7354723602084622	GreatCircle.exe	a602d056e7156df2
+1	99	7354728212165628	CMakeFiles/CMYKtoRGB.dir/CMYKtoRGB.c.obj	9863df700670b7ca
+100	275	7354728213881676	CMYKtoRGB.exe	d705c0a60bb57014

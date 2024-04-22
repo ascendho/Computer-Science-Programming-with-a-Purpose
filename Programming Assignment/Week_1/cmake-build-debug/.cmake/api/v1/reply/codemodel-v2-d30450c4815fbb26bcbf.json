@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CMYKtoRGB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMYKtoRGB-Debug-3257526b77d539c442f8.json",
+					"name" : "CMYKtoRGB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GreatCircle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GreatCircle-Debug-9927a2e41f0bc969c728.json",
+					"name" : "GreatCircle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloGoodbye::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloGoodbye-Debug-65f6d5d1eb7f407325c2.json",
+					"name" : "HelloGoodbye",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloWorld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloWorld-Debug-dd6b91423d65653f3b5b.json",
+					"name" : "HelloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RightTriangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RightTriangle-Debug-736375b4e00afd61c5ea.json",
+					"name" : "RightTriangle",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Programming Assignment/Week_1/cmake-build-debug",
+		"source" : "D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/Programming Assignment/Week_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
