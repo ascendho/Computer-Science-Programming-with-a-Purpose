@@ -1,0 +1,3 @@
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/code/Week_2/cmake-build-debug/CMakeFiles/PQfor.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/code/Week_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Udemy/Coursera - Computer Science Programming with a Purpose/coursera/code/Week_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
